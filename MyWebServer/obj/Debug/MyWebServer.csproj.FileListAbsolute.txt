@@ -1,0 +1,7 @@
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\bin\Debug\MyWebServer.exe.config
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\bin\Debug\MyWebServer.exe
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\bin\Debug\MyWebServer.pdb
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\obj\Debug\MyWebServer.csprojAssemblyReference.cache
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\obj\Debug\MyWebServer.csproj.CoreCompileInputs.cache
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\obj\Debug\MyWebServer.exe
+C:\Users\rsingh\source\repos\MyWebServer\MyWebServer\obj\Debug\MyWebServer.pdb
